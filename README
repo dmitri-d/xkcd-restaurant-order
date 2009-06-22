@@ -1,0 +1,1 @@
+Solution for xkcd "NP-complete" comic (http://xkcd.com/287/). This is a variety of an "unbounded knapsack" problem - solution (which turns out to be anticlimactic) can be found using a dynamic-programming algorithm.
